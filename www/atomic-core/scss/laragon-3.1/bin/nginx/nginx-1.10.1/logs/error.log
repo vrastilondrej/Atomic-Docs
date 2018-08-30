@@ -1,0 +1,30 @@
+2017/01/16 15:13:50 [emerg] 432#2768: CreateDirectory() "D:\Projects\Larawin\mint\bin\nginx\nginx-1.10.1/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2017/01/16 15:14:00 [emerg] 2020#2584: CreateDirectory() "D:\Projects\Larawin\mint\bin\nginx\nginx-1.10.1/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2017/01/16 15:15:13 [notice] 1652#1656: signal process started
+2017/01/16 15:17:14 [notice] 1612#572: signal process started
+2017/01/17 06:00:00 [notice] 1612#1556: signal process started
+2017/01/17 06:01:02 [notice] 5020#4424: signal process started
+2017/01/17 06:19:20 [notice] 2860#192: signal process started
+2017/01/18 21:11:09 [notice] 8012#7680: signal process started
+2017/01/18 21:16:13 [notice] 7336#6568: signal process started
+2017/01/19 07:38:36 [notice] 9020#9024: signal process started
+2017/01/19 07:39:54 [notice] 7768#4128: signal process started
+2017/01/19 07:39:59 [notice] 9696#8116: signal process started
+2017/01/19 07:47:39 [notice] 9520#9476: signal process started
+2017/01/19 07:49:26 [notice] 8660#8396: signal process started
+2017/01/19 07:52:39 [notice] 7120#1616: signal process started
+2017/01/30 11:51:32 [notice] 2428#6700: signal process started
+2017/01/30 11:52:17 [notice] 5732#3784: signal process started
+2017/01/30 11:56:42 [notice] 3936#3980: signal process started
+2017/01/30 12:00:24 [notice] 2388#8016: signal process started
+2017/01/31 09:03:47 [notice] 2776#7488: signal process started
+2017/01/31 09:04:37 [notice] 8532#4896: signal process started
+2017/01/31 09:05:36 [notice] 8484#9380: signal process started
+2017/01/31 09:06:07 [notice] 10160#1292: signal process started
+2017/01/31 09:07:02 [notice] 6912#9544: signal process started
+2017/01/31 09:13:12 [notice] 9888#9292: signal process started
+2017/01/31 09:16:55 [notice] 6520#5336: signal process started
+2017/01/31 09:20:12 [notice] 8592#8144: signal process started
+2017/02/01 22:14:55 [notice] 3468#7984: signal process started
+2017/04/04 11:42:00 [notice] 424#2496: signal process started
+2017/04/04 11:44:12 [notice] 1096#2124: signal process started

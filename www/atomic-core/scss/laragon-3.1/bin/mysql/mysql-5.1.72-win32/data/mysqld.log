@@ -1,0 +1,28 @@
+180308  7:36:25 [Note] Plugin 'FEDERATED' is disabled.
+180308  7:36:26  InnoDB: Initializing buffer pool, size = 8.0M
+180308  7:36:26  InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+180308  7:36:26  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+180308  7:36:26  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+180308  7:36:26  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+180308  7:36:26  InnoDB: Operating system error number 87 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.1/en/operating-system-error-codes.html
+InnoDB: File name .\ib_logfile0
+InnoDB: File operation call: 'aio write'.
+InnoDB: Cannot continue operation.
+180308  7:36:35 [Note] Plugin 'FEDERATED' is disabled.
+180308  7:36:35  InnoDB: Initializing buffer pool, size = 8.0M
+180308  7:36:35  InnoDB: Completed initialization of buffer pool
+180308  7:36:35  InnoDB: Operating system error number 87 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.1/en/operating-system-error-codes.html
+InnoDB: File name .\ib_logfile0
+InnoDB: File operation call: 'aio read'.
+InnoDB: Cannot continue operation.

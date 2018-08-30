@@ -1,0 +1,70 @@
+/* scss/readme/_settings.scss */
+/* scss/readme/_sidebars.scss */
+/* scss/readme/_sfdf.scss */
+/* scss/modules/_box.scss */
+.box {
+  background: #eee;
+  padding: 20px;
+  width: 500px;
+  height: 180px; }
+
+/* scss/jsExample/_clickme.scss */
+.click {
+  cursor: pointer;
+  position: relative;
+  left: 0;
+  transition: left .25s;
+  background: #ccf9bf;
+  padding: 20px 40px;
+  display: inline-block; }
+
+.clickAnimate {
+  left: 80%; }
+
+/* scss/carousely/_Carousel1.scss */
+/* scss/carousely/_carousel2.scss */
+/* scss/Buttons/_basicbutton.scss */
+.alpha .btn {
+  display: inline-block;
+  margin: 6px;
+  font-size: inherit;
+  line-height: 1.42;
+  padding: 0.8em 1.6em;
+  font-weight: normal;
+  border-width: 0;
+  border-style: solid;
+  background: transparent;
+  border-radius: 0.2666666667em;
+  cursor: pointer;
+  font-family: "Booster Next FY", "Avenir Next", Avenir, sans-serif;
+  user-select: none;
+  vertical-align: bottom;
+  transition: box-shadow 0.2s, transform 0.2s, color 0.2s; }
+
+.alpha .btn.btn-disabled {
+  cursor: not-allowed;
+  opacity: 0.8; }
+
+.alpha .btn.btn-disabled:active {
+  opacity: 0.6; }
+
+.alpha .btn:hover {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.5); }
+
+.alpha .btn:active {
+  transform: translateY(3px); }
+
+.alpha .btn-primary {
+  box-shadow: 0 3px 0 0 #367f14, 0 4px 4px -1px rgba(0, 0, 0, 0.6), 0 4px 6px 1px rgba(0, 0, 0, 0.3), 0 1px 2px 1px transparent inset, 0 18px 32px -2px rgba(255, 255, 255, 0.1) inset;
+  background-color: #52C11F;
+  background-image: linear-gradient(-45deg, #52C11F, #7ccc14);
+  color: #E6EAEF; }
+
+.alpha .btn-primary:hover {
+  box-shadow: 0 3px 0 0 #367f14, 0 6px 4px -1px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.5), 0 1px 2px 1px transparent inset, 0 18px 32px -2px rgba(255, 255, 255, 0.14) inset; }
+
+.alpha .btn-primary:active {
+  box-shadow: 0 0px 0 0 #2d6911, 0 3px 0 0 transparent, 0 4px 16px transparent, 0 1px 2px 1px rgba(0, 0, 0, 0.5) inset, 0 -18px 32px -2px rgba(255, 255, 255, 0.1) inset;
+  transition: 0s;
+  color: #367f14;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3); }

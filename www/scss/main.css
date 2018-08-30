@@ -1,0 +1,25 @@
+/* scss/readme/_settings.scss */
+/* scss/readme/_sidebars.scss */
+/* scss/readme/_sfdf.scss */
+/* scss/modules/_box.scss */
+.box {
+  background: #eee;
+  padding: 20px;
+  width: 500px;
+  height: 180px; }
+
+/* scss/jsExample/_clickme.scss */
+.click {
+  cursor: pointer;
+  position: relative;
+  left: 0;
+  transition: left .25s;
+  background: #ccf9bf;
+  padding: 20px 40px;
+  display: inline-block; }
+
+.clickAnimate {
+  left: 80%; }
+
+/* scss/carousely/_Carousel1.scss */
+/* scss/carousely/_carousel2.scss */
